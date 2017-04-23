@@ -1,0 +1,12 @@
+---
+layout: page
+title: ABOUT
+date: 2007-06-11 06:04
+author: nekoyamaharuko
+comments: true
+categories: []
+---
+<p style="text-align:justify;"><strong>NEKOYAMA HARUKO (猫山春子).
+</strong><span style="text-align:justify;line-height:1.5;">She is an illustrator based in France. </span>These years she’s been working on her personal projects, drawing for her friends, gathering information and experiences to have something valuable to tell trough her Art work. But Haruko had a first career as a Computer Science Engineer and worked and traveled around the world for the last 10 years. Although art has always been her passion, she had to chose another path of being a Developer and later on a QA Engineer. As an engineer she could travel and sponsor her own projects but without enough time at the end to focus on her art. That situation never quite made her happy. She finally ended up working on IT and now she’s working on some commissions and painting a watercolor series that will be exposed this year.  <strong>NEKOYAMA HARUKO (猫山春子)'s BLOG. </strong>Art is a trip. I enjoy discovering new visual experiences, probably in the constant seek of inspiration, but mainly to share those findings with my readers. I would love to transfer this knowledge to all my dear friends everywhere in the world. This is also an attempt to analyze and to put down into paper the visual work that I had the chance to enjoy during to my constant travels. I also consider this blog as a personal project of self training about the Today's Art Scene. Finally, let me tell you that education is a key to success, knowledge must be shared and be discussed, so I invite you to take part of this journey, let's learn together. Don't forget to (*・_・)ノ⌒* drop me a line.</p>
+
+<div style="color:#222222;"><span style="color:#404040;">© NEKOYAMA HARUKO (猫山春子)</span><br style="color:#404040;" /><span style="font-size:medium;"><a style="color:#1155cc;" href="https://twitter.com/NekoyamaHaruko" target="_blank">Twitter</a></span><span style="font-size:medium;"> | </span><span style="font-size:medium;"><a style="color:#1155cc;" href="http://www.facebook.com/nekoyama.haruko" target="_blank">Facebook</a></span><span style="font-size:medium;"> | </span><span style="font-size:medium;"><a style="color:#1155cc;" href="http://nekoyamaharuko.tumblr.com/" target="_blank">Tumblr</a></span><span style="font-size:medium;"> | <a style="color:#1155cc;" href="http://www.linkedin.com/in/nekoyama" target="_blank">Linkedin</a> </span></div>
