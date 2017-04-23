@@ -4,6 +4,7 @@ title: Motion paintings by Jacco Olivier
 date: 2014-04-20 21:22
 author: nekoyamaharuko
 comments: true
+imagetag: http://nekoyamaharuko.files.wordpress.com/2014/04/2014-03-16-17-55-14.jpg
 categories: [animation, ART, Den Haag, Fotomuseum, Jacco Olivier, Kunstacademie, Marianne Boesky, motion, paintings, retrospective, Rijksacademie, Rotterdam, Victoria Miro Gallery]
 ---
 <p style="text-align:justify;">There are a bunch of videos about the animation work of Jacco Olivier (1972). I can imagine that you have watched at least one, but like me never seen his work closely during an exhibit. This time I was lucky by being in the right place to watch <em>"Cycle" the ever first Dutch retrospective with works from the last decade at the <a title="Fotomuseum Den Haag" href="http://www.fotomuseumdenhaag.com/en" target="_blank">Fotomuseum</a> in Den Haag.

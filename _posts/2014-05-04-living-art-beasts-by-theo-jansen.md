@@ -4,6 +4,7 @@ title: Living art beasts by Theo Jansen
 date: 2014-05-04 17:35
 author: nekoyamaharuko
 comments: true
+imagetag: http://nekoyamaharuko.files.wordpress.com/2014/05/img_2841.jpg
 categories: [ART, binary counter, Dreams, Electriciteitsfabriek, kinetic sculptures, Pays-Bas, Strandbeest, TED, Theo Jansen]
 ---
 <p style="text-align:justify;">I've experienced <a title="Theo Jansen" href="http://en.wikipedia.org/wiki/Theo_Jansen">Theo Jansen</a>'s work like if I was reading a fairy tale. Hereby an abstract: "The beasts where found by the magician deep down in a dungeon in the world of equations. He was a physicist when he decided to leave this realm to learn the language of motion and beauty. He knew the story of those dancers that learned how to speak that language with their bodies, they charmed the inquisitor eye, so they came back to this world and became artists. The inquisitor eye is the supreme order in the world of equations, it has a daughter, the princess of all shapes. That beautiful girl ruled that world for ages and she will to the end of eternity. The princess was waiting to meet the one to free her kind and it happened. Impossible to the physicist to resist, he fell in love with her. She instructed him and he learned the refined language of motion and beauty, but in exchange he had to take her kind and make them reborn in our world, so he will pass back along with them and became an Artist".</p>
